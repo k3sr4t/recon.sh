@@ -1,5 +1,5 @@
 # recon.sh
-simple recon automatization tool 
+simple passive recon automatization tool 
 
 
 
